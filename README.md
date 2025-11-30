@@ -27,7 +27,7 @@ A modular framework for studying adversarial robustness in federated learning wi
 ## ✨ Features
 
 - **3 LLM Models**: DistilBERT, RoBERTa, ALBERT
-- **6 NLP Datasets**: SST-2, IMDB, AG News, MNLI, Yelp, Amazon
+- **4 NLP Datasets**: SST-2, AG News, MNLI, Amazon
 - **2 Backdoor Attacks**: Data Poisoning (DPA), Weight Poisoning (WPA)
 - **5 Defense Methods**: Krum, Flame, Multi-Metrics, FedDMC, FLPruning
 - **Modular Architecture**: Easy to extend with new models, attacks, or defenses
