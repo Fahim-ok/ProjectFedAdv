@@ -222,10 +222,8 @@ python scripts/run_experiments.py \
 | Dataset | Task | Classes | Train Size |
 |---------|------|---------|------------|
 | SST-2 | Sentiment | 2 | 67K |
-| IMDB | Sentiment | 2 | 25K |
 | AG News | Topic | 4 | 120K |
 | MNLI | NLI | 3 | 393K |
-| Yelp | Sentiment | 2 | 560K |
 | Amazon | Sentiment | 2 | 3.6M |
 
 ## ⚔️ Attacks & Defenses
