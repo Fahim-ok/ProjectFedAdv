@@ -1,7 +1,7 @@
 """
 Configuration file for Federated Learning with Backdoor Attacks and Defenses.
 
-This module contains all hyperparameters and settings for the experiments.
+This module contains all hyperparameters and settings for the experiments and versions.
 """
 
 from dataclasses import dataclass, field
